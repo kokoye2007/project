@@ -84,4 +84,8 @@ We current support ppa (Personal Pacakge Archive) on
 
 #### and other support for Community 
 
-``` ref debian image - https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html ```
+``` 
+ref debian image 
+- https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html 
+- https://steemit.com/debian/@aser1111/1-1-what-is-debian 
+```
