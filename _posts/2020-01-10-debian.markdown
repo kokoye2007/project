@@ -1,0 +1,87 @@
+---
+title:  "Debian"
+subtitle: "Universial Operating System"
+author: "Ko Ko Ye"
+avatar: "img/authors/kokoye2007.jpg"
+image: "img/debian.jpg"
+date:   2020-01-10 17:00:00
+---
+
+## Debian?
+
+Debian is a free operating system (OS) for your computer. An operating system is the set of basic programs and utilities that make your computer run.
+
+Debian provides more than a pure OS: it comes with over 59000 packages, precompiled software bundled up in a nice format for easy installation on your machine. 
+
+![](./img/debian-1.png)
+
+## What we support.
+
+### Default Keyboard 
+
+Defalut XKB Keyboard, we support and maintain it. 
+
+- xkb Burmese 
+- xkb Burmese Zawgyi 
+
+### Localization aka L10n L18n 
+- l10n-my  - available on Debian base Distro 
+	- Debian
+	- Ubuntu
+	- Mint
+	- Raspberry Pi
+	- etc 
+>- Coming soon list
+>- l10n-shn
+>- l10n-mnw
+>- l10n-kac
+
+### Future plan.
+
+We current support ppa (Personal Pacakge Archive) on 
+
+- ibus-table-myanmar - dummy source package
+ - ibus-table-burmese - Burmese Unicode Keyboard
+ - ibus-table-zawgyi - Burmese Zawgyi Keyboard
+> - ibus-table-shn - Still collection and configure Shan Keyboard
+> - ibus-table-mnw - Still collection and configure Mon Keyboard
+> - ibus-table-kac - Still collection and configure Kachin Keyboard
+
+- ibus-keymagic - ibus for Keymagic Engine Plugin
+	- additional 30+ keyboard file 
+
+- myanmar-fonts-switcher - we call mfs system fallback font switcher 
+	- can change system font
+	- can change fallback font
+	- can change keyboard on font base zawgyi or unicode
+	- can use shortcut ctrl+shift+U/Z/R for unicode zawgyi reset
+	- can use mfs on command line
+- fonts-myanmar - Myanmar Fonts Collection Package
+> sil-padauak is available, we port pyidaungsu, ours-unicode, tharlon etc
+- kmfl - Linux Keyboard 
+	- win style kmfl
+	- other  
+### Idea
+- ubuntu-mm-wallpaper pack
+- language-pack 
+	- language-pack-my
+	- language-pack-shn
+>	- language-pack-mnw 
+> - language-pack-kac
+- Additional Pack PPA
+	- Dhammapada 
+	- Word List 
+	- Dictionary 
+	- Keyboard
+	- Fonts
+	- Software Setting
+	- Language Pack 
+	- tldr
+	- the fuck
+	- vlc 
+	- osdlyrics
+	- etc
+
+#### and other support for Community 
+
+``` ref debian image - https://3.bp.blogspot.com/-3BYgReVl6wg/WUVJ7_UO6MI/AAAAAAAAGpI/k2nqJiPsHPA7KNf7lEQJ2j8V5RoTNFXuQCLcBGAs/s640/softWaves-Wallpaper-Debian-Stretch.jpg ```
