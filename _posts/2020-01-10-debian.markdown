@@ -84,4 +84,4 @@ We current support ppa (Personal Pacakge Archive) on
 
 #### and other support for Community 
 
-``` ref debian image - https://3.bp.blogspot.com/-3BYgReVl6wg/WUVJ7_UO6MI/AAAAAAAAGpI/k2nqJiPsHPA7KNf7lEQJ2j8V5RoTNFXuQCLcBGAs/s640/softWaves-Wallpaper-Debian-Stretch.jpg ```
+``` ref debian image - https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html ```
