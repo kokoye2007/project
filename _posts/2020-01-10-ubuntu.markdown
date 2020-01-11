@@ -85,7 +85,7 @@ sudo apt-get install ibus-keymagic
 | Myanmar Fonts Switcher | [myanmar-fonts-switcher](https://code.launchpad.net/~kokoye2007/+junk/myanmar-fonts-switcher) | [myanmar-fonts-switcher](apt://myanmar-fonts-switcher) | [myanmar-fonts-switcher](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/m/myanmar-fonts-switcher/) |
 | OSD Lyrics - Tualatrix Chou | [osdlyrics](https://github.com/osdlyrics/osdlyrics) | [osdlyrics](apt://osdlyrics) | [osdlyrics](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/o/osdlyrics/) | 
 | PacVim - jmoon018 | [pacvim](https://github.com/jmoon018/PacVim) | [pacvim](apt://pacvim) | [pacvim](https://launchpad.net/~kokoye2007/+archive/ubuntu/ppa/+files/pacvim_1.1.1-1_all.deb) |
-| Wifi QR | [wifi-qr]() | [wifi-qr](https://code.launchpad.net/~kokoye2007/wifi-qr/wifi-qr) | [wifi-qr](apt://wifi-qr) | [wifi-qr](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/w/wifi-qr/) |
+| Wifi QR | [wifi-qr](https://code.launchpad.net/~kokoye2007/wifi-qr/wifi-qr) | [wifi-qr](apt://wifi-qr) | [wifi-qr](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/w/wifi-qr/) |
 | Zawgyi-Keyboard Installer |  [zawgyi-keyboard](https://code.launchpad.net/~kokoye2007/+junk/zawgyi-keyboard) | [zawgyi-keyboard](apt://zawgyi-keyboard) | [zawgyi-keyboard](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/z/zawgyi-keyboard/zawgyi-keyboard_2.0.5-0~8~ubuntu19.04.1_all.deb) |
 
 ### Event.
@@ -93,20 +93,22 @@ sudo apt-get install ibus-keymagic
 | 10 Years | 23 City  | 54 Venues | 136 Events |
 
 - Event Maps
- - https://ubuntu-mm-eventlist.herokuapp.com/
+ - [https://ubuntu-mm-eventlist.herokuapp.com/](https://ubuntu-mm-eventlist.herokuapp.com/)
 - Event History
- - https://loco.ubuntu.com/teams/ubuntu-mm/events/history/
+ - [https://loco.ubuntu.com/teams/ubuntu-mm/events/history/](https://ubuntu-mm-eventlist.herokuapp.com/)
 - Event Photo
- - https://www.flickr.com/groups/ubuntu-mm/pool/
+ - [https://www.flickr.com/groups/ubuntu-mm/pool/](https://ubuntu-mm-eventlist.herokuapp.com/)
 
 
 ### Idea
 - ubuntu-mm-wallpaper pack
+
 - language-pack 
 	- language-pack-my
 	- language-pack-shn
 >	- language-pack-mnw 
 > - language-pack-kac
+
 - Additional Pack PPA
 	- Dhammapada 
 	- Word List 
@@ -123,25 +125,25 @@ sudo apt-get install ibus-keymagic
 
 ### Link
 
-- https://ubuntu-mm.net
-- https://ask.ubuntu-mm.net
-- https://ubuntu-mm.net/umw
-- https://loco.ubuntu.com/teams/ubuntu-mm
-- https://www.flickr.com/groups/ubuntu-mm/pool/
-- https://launchpad.net/~ubuntu-l10n-my
-- https://launchpad.net/~ubuntu-l10n-shn
-- https://launchpad.net/~ubuntu-l10n-mnw
-- https://launchpad.net/~lp-l10n-my
-- https://launchpad.net/~lp-l10n-shn
-- https://launchpad.net/~lp-l10n-mnw
-- https://launchpad.net/~ubuntu-mm
-- https://launchpad.net/~kokoye2007
-- https://wiki.ubuntu.com/kokoye2007
-- https://wiki.ubuntu.com/MyanmarTeam
-- https://ubuntumm.sf.net
-- https://fb.com/groups/ubuntu4mm
-- https://fb.com/ubuntumm
-- https://www.youtube.com/channel/UCxfNUKS6spcdNRyDR5HEUKg
+- [https://ubuntu-mm.net](https://ubuntu-mm.net)
+- [https://ask.ubuntu-mm.net](https://ask.ubuntu-mm.net)
+- [https://ubuntu-mm.net/umw](https://ubuntu-mm.net/umw)
+- [https://loco.ubuntu.com/teams/ubuntu-mm](https://loco.ubuntu.com/teams/ubuntu-mm)
+- [https://www.flickr.com/groups/ubuntu-mm/pool/](https://www.flickr.com/groups/ubuntu-mm/pool/)
+- [https://launchpad.net/~ubuntu-l10n-my](https://launchpad.net/~ubuntu-l10n-my)
+- [https://launchpad.net/~ubuntu-l10n-shn](https://launchpad.net/~ubuntu-l10n-shn)
+- [https://launchpad.net/~ubuntu-l10n-mnw](https://launchpad.net/~ubuntu-l10n-mnw)
+- [https://launchpad.net/~lp-l10n-my](https://launchpad.net/~lp-l10n-my)
+- [https://launchpad.net/~lp-l10n-shn](https://launchpad.net/~lp-l10n-shn)
+- [https://launchpad.net/~lp-l10n-mnw](https://launchpad.net/~lp-l10n-mnw)
+- [https://launchpad.net/~ubuntu-mm](https://launchpad.net/~ubuntu-mm)
+- [https://launchpad.net/~kokoye2007](https://launchpad.net/~kokoye2007)
+- [https://wiki.ubuntu.com/kokoye2007](https://wiki.ubuntu.com/kokoye2007)
+- [https://wiki.ubuntu.com/MyanmarTeam](https://wiki.ubuntu.com/MyanmarTeam)
+- [https://ubuntumm.sf.net](https://ubuntumm.sf.net)
+- [https://fb.com/groups/ubuntu4mm](https://fb.com/groups/ubuntu4mm)
+- [https://fb.com/ubuntumm](https://fb.com/ubuntumm)
+- [https://www.youtube.com/channel/UCxfNUKS6spcdNRyDR5HEUKg](https://www.youtube.com/channel/UCxfNUKS6spcdNRyDR5HEUKg)
 
 <sub><sup>
 ref image 

@@ -67,7 +67,7 @@ We current support ppa (Personal Pacakge Archive) on
 	- language-pack-my
 	- language-pack-shn
 >	- language-pack-mnw 
-> - language-pack-kac
+> 	- language-pack-kac
 - Additional Pack PPA
 	- Dhammapada 
 	- Word List 
@@ -86,6 +86,6 @@ We current support ppa (Personal Pacakge Archive) on
 
 <sub><sup>
 ref debian image 
-- https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html 
-- https://steemit.com/debian/@aser1111/1-1-what-is-debian 
+[debian](https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html)
+[steemit](https://steemit.com/debian/@aser1111/1-1-what-is-debian)
 </sup></sub>
