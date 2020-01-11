@@ -1,0 +1,149 @@
+---
+title:  "Ubuntu"
+subtitle: "humanity towards others"
+author: "Ko Ko Ye"
+avatar: "img/authors/kokoye2007.jpg"
+image: "img/ubuntu.png"
+date:   2020-01-10 22:12:00
+---
+
+## Ubuntu?
+
+Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.
+
+![](./img/ubuntu-1.png)
+
+## Ko Ko Ye aka kokoye2007
+- Ubuntu Official Member
+- Ubuntu LoCo And FOSS, OSS ctivist
+	- Ubuntu LoCo Team
+		- Ubuntu Myanmar LoCo Team - Leader
+		- Ubuntu Shan LoCo Team - Admin
+		- Ubuntu Mon LoCo Team - Admin
+		- Kachin and Karen is coming soon
+	- Ubuntu L10n Team (Localization Team)
+		- Ubuntu l10n-my - Burmese - Admin
+		- Ubuntu l10n-shn - Shan - Admin
+		- Ubuntu l10n-mnw - Mon - Admin
+		- Kachin and Karen is coming soon
+- Google Mentor - Ubuntu Community (2017)
+
+### Default Keyboard 
+
+Defalut [XKB Keyboard](https://www.freedesktop.org/wiki/Software/XKeyboardConfig/), we support and maintain it. 
+
+- xkb Burmese 
+- xkb Burmese Zawgyi 
+- Zawgyi Keyboard Installer 
+   - [Zawgyi-Keyboard Source](https://code.launchpad.net/~kokoye2007/+junk/zawgyi-keyboard)
+   - [Zawgyi-Keyboard PPA](https://launchpad.net/~kokoye2007)
+   - [Zawgyi-Keyboard Deb](https://launchpad.net/~kokoye2007/+archive/ubuntu/ppa/+files/zawgyi-keyboard_2.0.5-0~8~ubuntu19.04.1_all.deb)
+
+### Localization aka L10n L18n 
+- l10n-my  - available on Debian base Distro 
+	- Debian
+	- Ubuntu
+	- Mint
+	- Raspberry Pi
+	- etc 
+>- Coming soon list
+>- l10n-shn
+>- l10n-mnw
+>- l10n-kac
+
+### PPA App List
+
+```
+sudo add-apt-repository -y ppa:kokoye2007/ppa
+sudo apt-get update
+```
+- example installation is here
+
+```
+sudo apt-get install myanmar-fonts-switcher
+sudo apt-get install fonts-myanmar
+sudo apt-get install fonts-myanmar-zawgyi
+sudo apt-get install fonts-myanmar-unicode
+
+sudo apt-get install zawgyi-keyboard
+
+sudo apt-get install tldr
+
+sudo apt-get install ibus-table-my-unicode
+sudo apt-get install ibus-table-my-zawgyi
+sudo apt-get install ibus-table-shn-zawgyitai
+
+sudo apt-get install ibus-keymagic
+```
+
+
+| App Name | App Source | PPA | DEB |
+|----------|------------|-----|-----|
+| Font Myanmar | [fonts-myanmar](https://code.launchpad.net/~kokoye2007/+junk/fonts-myanmar)  | [fonts-myanmar](apt://fonts-myanmar) | [fonts-myanmar](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/f/fonts-myanmar/) |
+| iBus Keymagic | [ibus-keymagic](https://code.launchpad.net/~kokoye2007/+junk/ibus-keymagic)  | [ibus-keymagic](apt://ibus-keymagic) | [ibus-keymagic](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/i/ibus-keymagic/) |
+| iBus Table Myanmar | [ibus-table-myanmar](https://code.launchpad.net/~kokoye2007/+junk/ibus-table-myanmar)  | [ibus-table-myanmar](apt://ibus-table-myanmar) | [ibus-table-myanmar](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/i/ibus-table-myanmar/) |
+| Myanmar Fonts Switcher | [myanmar-fonts-switcher](https://code.launchpad.net/~kokoye2007/+junk/myanmar-fonts-switcher) | [myanmar-fonts-switcher](apt://myanmar-fonts-switcher) | [myanmar-fonts-switcher](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/m/myanmar-fonts-switcher/) |
+| OSD Lyrics - Tualatrix Chou | [osdlyrics](https://github.com/osdlyrics/osdlyrics) | [osdlyrics](apt://osdlyrics) | [osdlyrics](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/o/osdlyrics/) | 
+| PacVim - jmoon018 | [pacvim](https://github.com/jmoon018/PacVim) | [pacvim](apt://pacvim) | [pacvim](https://launchpad.net/~kokoye2007/+archive/ubuntu/ppa/+files/pacvim_1.1.1-1_all.deb) |
+| Wifi QR | [wifi-qr]() | [wifi-qr](https://code.launchpad.net/~kokoye2007/wifi-qr/wifi-qr) | [wifi-qr](apt://wifi-qr) | [wifi-qr](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/w/wifi-qr/) |
+| Zawgyi-Keyboard Installer |  [zawgyi-keyboard](https://code.launchpad.net/~kokoye2007/+junk/zawgyi-keyboard) | [zawgyi-keyboard](apt://zawgyi-keyboard) | [zawgyi-keyboard](http://ppa.launchpad.net/kokoye2007/ppa/ubuntu/pool/main/z/zawgyi-keyboard/zawgyi-keyboard_2.0.5-0~8~ubuntu19.04.1_all.deb) |
+
+### Event.
+
+| 10 Years | 23 City  | 54 Venues | 136 Events |
+
+- Event Maps
+ - https://ubuntu-mm-eventlist.herokuapp.com/
+- Event History
+ - https://loco.ubuntu.com/teams/ubuntu-mm/events/history/
+- Event Photo
+ - https://www.flickr.com/groups/ubuntu-mm/pool/
+
+
+### Idea
+- ubuntu-mm-wallpaper pack
+- language-pack 
+	- language-pack-my
+	- language-pack-shn
+>	- language-pack-mnw 
+> - language-pack-kac
+- Additional Pack PPA
+	- Dhammapada 
+	- Word List 
+	- Dictionary 
+	- Keyboard
+	- Fonts
+	- Software Setting
+	- Language Pack 
+	- tldr
+	- the fuck
+	- vlc 
+	- osdlyrics
+	- etc
+
+### Link
+
+- https://ubuntu-mm.net
+- https://ask.ubuntu-mm.net
+- https://ubuntu-mm.net/umw
+- https://loco.ubuntu.com/teams/ubuntu-mm
+- https://www.flickr.com/groups/ubuntu-mm/pool/
+- https://launchpad.net/~ubuntu-l10n-my
+- https://launchpad.net/~ubuntu-l10n-shn
+- https://launchpad.net/~ubuntu-l10n-mnw
+- https://launchpad.net/~lp-l10n-my
+- https://launchpad.net/~lp-l10n-shn
+- https://launchpad.net/~lp-l10n-mnw
+- https://launchpad.net/~ubuntu-mm
+- https://launchpad.net/~kokoye2007
+- https://wiki.ubuntu.com/kokoye2007
+- https://wiki.ubuntu.com/MyanmarTeam
+- https://ubuntumm.sf.net
+- https://fb.com/groups/ubuntu4mm
+- https://fb.com/ubuntumm
+- https://www.youtube.com/channel/UCxfNUKS6spcdNRyDR5HEUKg
+
+<sub><sup>
+ref image 
+wiki and ubuntu
+</sup></sub>

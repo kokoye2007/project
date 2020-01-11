@@ -19,7 +19,7 @@ Debian provides more than a pure OS: it comes with over 59000 packages, precompi
 
 ### Default Keyboard 
 
-Defalut XKB Keyboard, we support and maintain it. 
+Defalut [XKB Keyboard](https://www.freedesktop.org/wiki/Software/XKeyboardConfig/), we support and maintain it. 
 
 - xkb Burmese 
 - xkb Burmese Zawgyi 
@@ -40,24 +40,24 @@ Defalut XKB Keyboard, we support and maintain it.
 
 We current support ppa (Personal Pacakge Archive) on 
 
-- ibus-table-myanmar - dummy source package
+- [ibus-table-myanmar](https://mentors.debian.net/package/ibus-table-myanmar) - dummy source package
  - ibus-table-burmese - Burmese Unicode Keyboard
  - ibus-table-zawgyi - Burmese Zawgyi Keyboard
 > - ibus-table-shn - Still collection and configure Shan Keyboard
 > - ibus-table-mnw - Still collection and configure Mon Keyboard
 > - ibus-table-kac - Still collection and configure Kachin Keyboard
 
-- ibus-keymagic - ibus for Keymagic Engine Plugin
+- [ibus-keymagic](https://mentors.debian.net/package/ibus-keymagic) - ibus for Keymagic Engine Plugin
 	- additional 30+ keyboard file 
 
-- myanmar-fonts-switcher - we call mfs system fallback font switcher 
+- [myanmar-fonts-switcher](https://code.launchpad.net/~kokoye2007/+junk/myanmar-fonts-switcher) - we call mfs system fallback font switcher 
 	- can change system font
 	- can change fallback font
 	- can change keyboard on font base zawgyi or unicode
 	- can use shortcut ctrl+shift+U/Z/R for unicode zawgyi reset
 	- can use mfs on command line
-- fonts-myanmar - Myanmar Fonts Collection Package
-> sil-padauak is available, we port pyidaungsu, ours-unicode, tharlon etc
+- [fonts-myanmar](https://mentors.debian.net/package/fonts-myanmar) - Myanmar Fonts Collection Package
+> [fonts-sil-padauak](https://packages.debian.org/search?keywords=fonts-sil-padauk) is available, we port pyidaungsu, ours-unicode, tharlon etc
 - kmfl - Linux Keyboard 
 	- win style kmfl
 	- other  
@@ -84,8 +84,8 @@ We current support ppa (Personal Pacakge Archive) on
 
 #### and other support for Community 
 
-``` 
+<sub><sup>
 ref debian image 
 - https://www.blogopcaolinux.com.br/2017/06/Lancado-o-Debian-9-Stretch-download.html 
 - https://steemit.com/debian/@aser1111/1-1-what-is-debian 
-```
+</sup></sub>
